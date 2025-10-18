@@ -191,22 +191,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-### 💡 Pro Tip
-
-When publishing to NPM or GitHub Packages:
-
-```bash
-npm run build
-npm publish --access public
-```
-
----
-
-### 🧱 Stack Used
-
-- **Vue 3**
-- **Pinia**
-- **Axios**
-- **Vite (Library Mode)**
-
 > Simple, dynamic, and ready for multilingual global apps 🌍
