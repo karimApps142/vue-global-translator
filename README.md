@@ -186,7 +186,7 @@ Translations and currencies are managed through the **Globalize Management Platf
 
 This project is licensed under the **MIT License**.
 
-**Author:** [Mussab Hanif](https://github.com/karimApps142)  
+**Author:** [Mussab Hanif](https://github.com/mussabhanif)  
 **Repository:** [karimApps142/vue-global-translator](https://github.com/karimApps142/vue-global-translator)
 
 ---
